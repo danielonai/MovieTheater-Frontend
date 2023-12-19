@@ -1,7 +1,5 @@
 # Movie Theater App - Code Lovers Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Introduction
 
 An app that allows you to register and order movie tickets. as Admin you can create movies, edit their details and add/remove screening times.
