@@ -4,6 +4,7 @@
 
 An app that allows you to register and order movie tickets. as Admin you can create movies, edit their details and add/remove screening times.
 
+
 user credentials:
 
 email: "theuser@example.com"
@@ -11,11 +12,13 @@ email: "theuser@example.com"
 password:"password"
 
 
+
 admin credentials: 
 
 email: "theadmin@example.com" 
 
 password:"password"
+
 
 ### Installation
 To run this project locally, follow these steps after you've launched the server:
