@@ -1,4 +1,4 @@
-# Movie Theater App - Code Lovers Frontend
+# Movie Theater App - Code Lovers Home Task Frontend
 
 ## Introduction
 
